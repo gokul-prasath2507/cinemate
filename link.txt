@@ -1,0 +1,17 @@
+aacdbf3327b63f61658061c6d760d43c
+
+popular: https://api.themoviedb.org/3/movie/popular?api_key=aacdbf3327b63f61658061c6d760d43c
+
+now playing:'https://api.themoviedb.org/3/movie/now_playing?api_key=aacdbf3327b63f61658061c6d760d43c
+
+top rated: https://api.themoviedb.org/3/movie/top_rated?api_key=aacdbf3327b63f61658061c6d760d43c
+
+upcoming: https://api.themoviedb.org/3/movie/upcoming?api_key=aacdbf3327b63f61658061c6d760d43c
+
+imdividual:https://api.themoviedb.org/3/movie/movie_id?api_key=aacdbf3327b63f61658061c6d760d43c
+
+https://api.themoviedb.org/3/search/movie?query={movie_name}&api_key=aacdbf3327b63f61658061c6d760d43c
+
+
+image sourcing link without poster id: 
+https://image.tmdb.org/t/p/w500/
